@@ -16,4 +16,10 @@ Redémarrez votre PC et bootez sur MemTest !
 En effet, il teste les périphériques dans l’ordre : DVD-Rom, Disque dur, Réseau, Clé USB
 On appelle cela le « Boot priority » pour priorité de démarrage du PC.*
 
+https://github.com/user-attachments/assets/5a44cc6c-a6fa-4cf0-9c8e-1bad7861bc34
+
 Lancez un test complet de votre RAM.
+![20251022_174421](https://github.com/user-attachments/assets/885930ab-df74-4914-a085-2e6b92827753)
+#🏆 Challenge Bonus#
+Rendez-vous avec des outils de prise en main à distance, que ce soit AnyDesk, TeamViewer, ou même les outils natifs de votre système d’exploitation.
+L’objectif est simplement d’explorer leurs possibilités et de tester par vous-même différents outils.
