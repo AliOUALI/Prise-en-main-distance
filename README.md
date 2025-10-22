@@ -23,3 +23,17 @@ Lancez un test complet de votre RAM.
 #🏆 Challenge Bonus#
 Rendez-vous avec des outils de prise en main à distance, que ce soit AnyDesk, TeamViewer, ou même les outils natifs de votre système d’exploitation.
 L’objectif est simplement d’explorer leurs possibilités et de tester par vous-même différents outils.
+Les différentes étapes pour la configuration de l'accès à distance avec Teamviewer :
+J'ai téléchargé et installé le logiciel sur les 2 machines hôte Admin la mienne et celle client sur un laptop (en QuickSupport).
+J'ai ouvert la session Teamviewer sur la machine Admin et je l'ai nommé ''Test-Oclolck''J'ai obtenu un N° de cession que j'ai donné au client afin d'établir la connexion à distance.
+![TViewer-testoclock](https://github.com/user-attachments/assets/36bc0839-69be-4065-917c-ab922a994221)
+
+Le client fait la même chose de son côté et valide la connexion. Pour résumer, j'ai utilisé l’identifiant et le mot de passe pour se connecter à mon appareil à distance. J'ai donné le code attribué au client
+Le client a partagé avec moi le contrôle de son appareil en cliquant sur le bouton “Autoriser” sur l’écran.
+PC hôte Admin
+![TViewer-testoclock-ok](https://github.com/user-attachments/assets/c814f387-f983-4dc5-982f-f9c97e71d9bf)
+Le laptop client pris en main à distance
+![20251022_184944](https://github.com/user-attachments/assets/04180540-805d-47fc-9854-9d4b34fa498d)
+![20251022_184823](https://github.com/user-attachments/assets/94137aed-a3ca-4704-b22b-d6e92dfb90d7)
+![20251022_184645](https://github.com/user-attachments/assets/854a6afa-b111-440e-9dcb-b1ce7c55a014)
+![TViewer-testoclock-ok](https://github.com/user-attachments/assets/043ef3f6-8b8d-421e-a27c-f8974a9ca941)
