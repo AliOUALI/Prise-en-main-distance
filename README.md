@@ -37,3 +37,11 @@ Le laptop client pris en main à distance
 ![20251022_184823](https://github.com/user-attachments/assets/94137aed-a3ca-4704-b22b-d6e92dfb90d7)
 ![20251022_184645](https://github.com/user-attachments/assets/854a6afa-b111-440e-9dcb-b1ce7c55a014)
 ![TViewer-testoclock-ok](https://github.com/user-attachments/assets/043ef3f6-8b8d-421e-a27c-f8974a9ca941)
+#🏆 Challenge Bonus plus Bureau à distance sur VM#
+iL FAUT installer le pack extension de Virtualbox et ouvrir l'affichage du panneau de configuration de la VM afin d'activer le serveur.
+![bad-vm1](https://github.com/user-attachments/assets/70f34edf-5dc5-4fff-94e0-6b563d7f8306)
+Sinon en installant Teamviewer sur la vm
+![TViewer-vm](https://github.com/user-attachments/assets/0f66b6cc-4451-4462-9e82-227aa7ef67cd)
+![TViewer-hote](https://github.com/user-attachments/assets/47b6cab6-b471-42e7-ad64-decb5421f07e)
+
+
